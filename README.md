@@ -33,7 +33,7 @@ I’d love to connect! Whether it’s collaboration, feedback, or a friendly hel
 
 [📧 Email(kaushalyahiruni915@gmail.com)](mailto:kaushalyahiruni915@gmail.com)  
 [💼 LinkedIn](https://www.linkedin.com/in/hiruni-kaushalya-67951a262/)  
-[🌐 Portfolio](https://kaushalyahiruni.github.io/Portfolio/)  
+[🌎 Portfolio](https://kaushalyahiruni.github.io/Portfolio/)  
 [🐙 GitHub](https://github.com/kaushalyahiruni)  
  
 💌 Feel free to reach out anytime!
