@@ -23,7 +23,7 @@ Here’s what you can find on my website:
 - **About Me:** My skills, and passions  
 - **Contact:** How to reach me for collaboration  
 
-Check it out live: [**My Portfolio**](https://kaushalyahiruni.github.io/Portfolio/) 🌐  
+Check it out live: [**My Portfolio**](https://kaushalyahiruni.github.io/Portfolio/) 
 
 ---
 
