@@ -36,5 +36,10 @@ I’d love to connect! Whether it’s collaboration, feedback, or a friendly hel
 [🌐 Portfolio](https://kaushalyahiruni.github.io/Portfolio/)  
 [🐙 GitHub](https://github.com/kaushalyahiruni)  
 
+[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:kaushalyahiruni915@gmail.com)  
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/hiruni-kaushalya-67951a262/)  
+[![Portfolio](https://img.icons8.com/color/48/000000/domain.png)](https://kaushalyahiruni.github.io/Portfolio/)  
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)](https://github.com/kaushalyahiruni)  
+
 💌 Feel free to reach out anytime!
 
