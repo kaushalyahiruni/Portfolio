@@ -25,6 +25,8 @@ Here’s what you can find on my website:
 
 Check it out live: [**My Portfolio**](https://kaushalyahiruni.github.io/Portfolio/) 
 
+<img src="images/hero.png" alt="Portfolio Hero" width="800">
+
 ---
 
 ## 📫 Contact Me
